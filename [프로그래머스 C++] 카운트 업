@@ -1,0 +1,26 @@
+◈ 문제 설명 링크
+https://school.programmers.co.kr/learn/courses/30/lessons/181920
+
+ 
+프로그래머스
+
+코드 중심의 개발자 채용. 스택 기반의 포지션 매칭. 프로그래머스의 개발자 맞춤형 프로필을 등록하고, 나와 기술 궁합이 잘 맞는 기업들을 매칭 받으세요.
+
+programmers.co.kr
+ 
+◈ 작성 코드
+
+#include <string>
+#include <vector>
+
+using namespace std;
+
+vector<int> solution(int start_num, int end_num) 
+{
+    vector<int> answer((end_num - start_num) + 1);
+    for(int i = 0; i < (end_num - start_num) + 1; i++)
+    {
+        answer[i] = start_num + i;
+    }
+    return answer;
+}
