@@ -1,15 +1,9 @@
-◈ 문제 설명
-
-![img1 daumcdn](https://github.com/JunheeLee7/Programers.CP/assets/120552023/a84d0298-4617-438f-ad43-8c5294bd4c5c)
-
-
 ◈ 문제 설명 링크
 
 https://school.programmers.co.kr/learn/courses/30/lessons/181921
 
 ◈ 작성 코드
  
-
 #include <string>
 #include <vector>
 
