@@ -1,6 +1,6 @@
 ◈ 문제 설명 링크
 
-코딩테스트 연습 - 간단한 논리 연산 | 프로그래머스 스쿨 (programmers.co.kr)
+https://school.programmers.co.kr/learn/courses/30/lessons/181917
 
 ◈ 작성 코드
 
