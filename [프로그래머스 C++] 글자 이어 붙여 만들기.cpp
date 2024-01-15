@@ -1,6 +1,6 @@
 ◈ 문제 설명 링크
 
-코딩테스트 연습 - 글자 이어 붙여 문자열 만들기 | 프로그래머스 스쿨 (programmers.co.kr)
+https://school.programmers.co.kr/learn/courses/30/lessons/181915
 
 ◈ 작성 코드
   
